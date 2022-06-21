@@ -1,4 +1,4 @@
-Hi 
+Hi, welcome to my github!
 ======================
 
 Web + Desktop Software Engineer
