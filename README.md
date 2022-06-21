@@ -1,20 +1,13 @@
-Hi 👋 My name is Barry
+Hi 
 ======================
 
-Web developer
+Web + Desktop Software Engineer
 -------------
 
-<!--
-**pgr4ham/pgr4ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been passionate and dedicated to learning about code since I was 10.
 
-Here are some ideas to get you started:
+* Australia #1
+* Portfolio -> pgr4ham.github.io/portfolio
+* Contact -> patrickgraham202@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
