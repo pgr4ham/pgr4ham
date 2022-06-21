@@ -10,4 +10,4 @@ I have been passionate and dedicated to learning about code since I was 10.
 * Portfolio -> pgr4ham.github.io/portfolio
 * Contact -> patrickgraham202@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dotnet,html,css,js,react,java,lua,py)](https://skillicons.dev)
