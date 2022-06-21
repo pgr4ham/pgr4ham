@@ -4,7 +4,7 @@ Hi
 Web + Desktop Software Engineer
 -------------
 
-I have been passionate and dedicated to learning about code since I was 10.
+I have been passionate and dedicated to learning about for 6 years and have learnt from html to .net to kernel drivers.
 
 * Australia #1
 * Portfolio -> pgr4ham.github.io/portfolio
